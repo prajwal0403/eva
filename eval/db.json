@@ -1,0 +1,35 @@
+{
+  "addcity": [
+    {
+      "cityName": "Buldana",
+      "population": "24444",
+      "country": "india",
+      "id": 1
+    },
+    {
+      "cityName": "Mumbai",
+      "population": "500000",
+      "country": "india",
+      "id": 2
+    },
+    {
+      "cityName": "Aurangabad",
+      "population": "500000",
+      "country": "india",
+      "id": 3
+    },
+    {
+      "cityName": "Motala",
+      "population": "5000",
+      "country": "india",
+      "id": 4
+    },
+    {
+      "cityName": "Nandura",
+      "population": "5000",
+      "country": "America",
+      "id": 5
+    }
+  ],
+  "addCountry": []
+}
